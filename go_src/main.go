@@ -37,7 +37,8 @@ func main() {
 
 	if loginResult == 0 {
 		fmt.Println("quote login OK.")
-		Stocks["300682"] = "300682"
+		Stocks["xtp*"] = "xtp*"
+		Go_quote_apiSubscribeMarketData(quote_api, Stocks, 1)
 		Go_quote_apiSubscribeMarketData(quote_api, Stocks, 2)
 	} else {
 		fmt.Println("login failed.")
