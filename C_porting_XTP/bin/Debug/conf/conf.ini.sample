@@ -1,0 +1,10 @@
+[CFG]
+username=894962
+password=181221
+md_addr=tcp://ctpfz1-front1.citicsf.com:51213
+m_brokerId=66666
+trader_addr=tcp://ctpfz1-front1.citicsf.com:51205
+t_brokerId =66666
+log_server_addr=tcp://*:8888
+md_server_addr=tcp://*:16888
+concerns=IF1608

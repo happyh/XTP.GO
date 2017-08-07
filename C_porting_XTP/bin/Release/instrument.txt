@@ -1,0 +1,10 @@
+{
+	"instruments" : 
+	[
+		{ 
+			"Symbol" : "ag1612",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		}	
+	]
+}

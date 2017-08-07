@@ -1,0 +1,6245 @@
+{
+	"instruments" : 
+	[
+		{ 
+			"Symbol" : "wrefp",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "snefp",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "fuefp",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cuefp",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "buefp",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "auefp",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "agefp",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC c1601&cs1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF601&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IPS SF601&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD JR505&JR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC l1509&pp1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP l1509&l1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPC l1509&v1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SR509&SR607",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR509&SR605",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR509&SR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR509&SR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC j1601&jm1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD SM601&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM601&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM601&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP v1505&v1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD RM511&RM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1507&a1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1507&a1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC a1507&m1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA512&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA512&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA512&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP pp1509&pp1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD CF509&CF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR607",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC l1511&v1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SP jm1505&jm1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SP jm1505&jm1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPC fb1511&bb1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SP m1507&m1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1507&m1508",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1507&m1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP p1506&p1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR601&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR601&SR607",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR601&SR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "hcefp",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR605&SR607",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM509&SM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM509&SM510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM509&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH511&WH601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IPS SF508&SM508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP a1605&a1609",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC511&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD RM509&RM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC511&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC511&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC511&TC512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD LR509&LR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA510&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA510&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA510&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR507&SR605",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR507&SR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR507&SR509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR507&SR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC fb1509&bb1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD OI511&OI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD JR507&JR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD JR507&JR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF602&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IPS SF602&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RI507&RI511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI507&RI509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RS509&RS511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC510&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP p1509&p1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1509&p1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1509&p1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IPS SF604&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA509&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA510&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA509&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA509&MA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA509&MA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA509&MA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD CF601&CF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP l1505&l1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPC l1505&v1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPC l1505&pp1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP a1505&a1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1505&a1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1509&m1512",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1509&m1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1509&m1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1607&a1609",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR507&SR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA603&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1601&a1607",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1601&a1605",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC a1601&m1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD CF511&CF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP pp1505&pp1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP c1507&c1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC511&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SP c1507&c1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RS508&RS509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RS508&RS511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG511&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG511&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG511&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG511&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1505&cs1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1505&cs1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP jd1509&jd1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1505&cs1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1505&cs1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1505&cs1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD JR505&JR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG601&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI509&RI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD CF505&CF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD CF505&CF507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD RM508&RM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM508&RM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM508&RM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD OI509&OI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD OI509&OI511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM509&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG510&FG512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP pp1509&pp1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM509&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG510&FG511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC a1505&m1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1505&a1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG510&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG510&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "rbefp",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD LR505&LR507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD OI505&OI509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD OI505&OI511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD CF507&CF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD CF507&CF509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD MA601&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD OI507&OI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RM505&RM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM505&RM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM505&RM507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP p1505&p1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP m1509&m1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP p1505&p1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1505&p1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1505&p1506",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM512&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM512&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF510&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC c1507&cs1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF510&SF512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD OI505&OI507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IPS SF510&SM510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF510&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD FG602&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP p1511&p1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF511&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF511&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF511&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF511&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD PM511&PM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR511&SR605",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR511&SR607",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP fb1509&fb1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC510&TC511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM512&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RI509&RI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP b1505&b1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP bb1505&bb1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SP m1508&m1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC y1505&p1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP y1505&y1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC c1511&cs1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC c1511&cs1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP c1511&c1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP jm1509&jm1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD TA512&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC y1509&p1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP y1509&y1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC y1509&p1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF506",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1505&p1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1507&p1508",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF512&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF512&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC y1511&p1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP bb1505&bb1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR511&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR605&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP y1505&y1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF601&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC c1511&cs1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA511&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA511&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA511&TA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC i1509&jm1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SP i1509&i1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPC i1509&jm1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPC i1509&j1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SP i1509&i1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD MA512&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA512&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA603&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD PM507&PM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD LR505&LR509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM507&PM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA509&MA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM507&PM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM507&PM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC603&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TA602&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD LR507&LR509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1505&a1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG510&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF509&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD WH509&WH603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD JR505&JR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1601",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "bb1604",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC c1509&cs1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC c1509&cs1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP l1601&l1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "i1603",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD FG509&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG509&FG511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG509&FG510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA510&TA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "j1506",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD FG509&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC509&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SP a1505&a1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC509&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC509&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC509&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD OI505&OI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP m1505&m1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "FG510",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "FG511",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RM603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fb1509",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "FG512",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cs1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM509&RM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC a1509&m1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IC1505",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SP a1603&a1609",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP c1505&c1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "l1604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPC c1505&cs1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP c1505&c1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH507&WH511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP c1505&c1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1509",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "OI601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP cs1509&cs1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1509&cs1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG510&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF509&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP pp1505&pp1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF509&SF512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IPS SF509&SM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD PM509&PM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF509&SF510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM506",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP cs1509&cs1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD JR509&JR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RS507&RS509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC l1505&pp1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC i1505&jm1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "c1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP i1505&i1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "IPS SF507&SM507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC i1505&j1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "ni1510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC510&TC512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPC a1509&m1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "CF507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP a1509&a1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP a1509&a1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cu1507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "pb1601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP a1509&a1605",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "b1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA601&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP c1509&c1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ag1507",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC509&TC510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "WH509",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "ni1512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD CF505&CF509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG601&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1507&p1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG601&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC j1509&jm1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SP m1509&m1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA511&MA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI511&RI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM507&RM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM507&RM508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM507&RM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC601",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SM603&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP v1509&v1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "m1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG512&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH505&WH603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH505&WH511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG509&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH505&WH507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI505&RI509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "jm1509",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD RI505&RI511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG509&FG512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RI505&RI507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM508&RM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI505&RI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI505&RI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "m1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF603&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD WH507&WH603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP c1505&c1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH505&WH509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RM511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC a1511&m1508",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH507&WH509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH507&WH601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SR601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA509&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD CF507&CF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA509&TA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA509&TA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA509&TA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP i1509&i1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "au1602",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TA601&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TA601&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD RM507&RM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "wr1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "wr1604",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SM509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA506",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPC a1509&m1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1511&a1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC i1601&jm1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC510&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "al1512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP c1509&c1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IC1509",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SP pp1505&pp1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM509&PM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "jm1506",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SP fb1505&fb1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD LR505&LR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA602&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "JR505",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "jm1507",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD FG603&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP j1505&j1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPC j1505&jm1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD RM509&RM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF602&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "i1509",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SP j1505&j1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "TA511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD PM509&PM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "TA509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA511&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR507&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC512&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SP jd1505&jd1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA511&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP jd1505&jd1506",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP jd1505&jd1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RI507",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "wr1510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM511&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG512&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "c1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM511&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1506&p1508",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "m1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP i1601&i1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD CF507&CF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF512&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD LR511&LR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM505&PM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM505&PM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM505&PM507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "hc1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "hc1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "bb1511",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SM509&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "v1510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SM510&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC c1601&cs1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "MA511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC c1601&cs1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "au1506",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SP c1601&c1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC c1601&cs1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1511&m1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1511&m1512",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "al1506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP a1511&a1605",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD CF511&CF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "l1512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPC a1511&m1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "hc1602",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD PM505&PM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC a1511&m1512",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "rb1604",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1511&a1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "m1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TF1506",
+			"VolumeMultiple" : "10000",
+			"PriceTick" : "0.005"
+		},
+		{ 
+			"Symbol" : "SPD SR603&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR603&SR607",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "IPS SF505&SM505",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA510&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA510&TA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD CF505&CF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP b1509&b1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG509&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA510&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM505&PM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC509&TC511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "pb1511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP i1505&i1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "ni1511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP jm1509&jm1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA510&MA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR605",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC y1512&p1512",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA510&MA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA510&MA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "sn1511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPC fb1505&bb1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "sn1601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "niefp",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "a1607",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC602",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "p1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "cs1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC y1601&p1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "T1603",
+			"VolumeMultiple" : "10000",
+			"PriceTick" : "0.005"
+		},
+		{ 
+			"Symbol" : "cs1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG508&FG511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "au1510",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "PM601",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM601&RM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC512&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SR609",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "sn1509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "sn1508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SP l1505&l1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SF509&SF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "ni1602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD WH509&WH601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "sn1602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SF602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA511&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD OI601&OI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC512&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "sn1507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPC l1510&v1510",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "cu1601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD CF509&CF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "hc1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "zn1601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "TA508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "rb1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG506",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI507&RI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "au1512",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "jd1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "wr1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ru1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TC509&TC512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD RS507&RS511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1510",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "hc1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "sn1512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "al1601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "al1602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "TA602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF510&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "jm1602",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "jd1602",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "j1602",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "fb1602",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "zn1602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD WH505&WH601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "wr1602",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "rb1602",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cu1602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ag1602",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC i1509&j1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "v1602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pp1602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "p1602",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD OI505&OI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP m1505&m1507",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fb1511",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "a1605",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1602",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "IF1505",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD LR511&LR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1612",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "T1509",
+			"VolumeMultiple" : "10000",
+			"PriceTick" : "0.005"
+		},
+		{ 
+			"Symbol" : "FG602",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "IF1512",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SF511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP p1507&p1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "PM511",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD LR509&LR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "IF1509",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "CF511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP a1509&a1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM511&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "RI509",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ni1509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD JR507&JR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ag1505",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ru1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD LR507&LR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "WH603",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "al1508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SM602&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "TC603",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD JR511&JR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "j1507",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "JR603",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "v1603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "pp1603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "j1603",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SP c1509&c1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "a1609",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "IF1506",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SR509&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "y1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA602&MA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD JR601&JR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP jd1505&jd1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI507&RI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD CF505&CF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "i1604",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "v1505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP m1512&m1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "jm1510",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "TF1512",
+			"VolumeMultiple" : "10000",
+			"PriceTick" : "0.005"
+		},
+		{ 
+			"Symbol" : "SPD SM510&SM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "ag1601",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "OI603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "y1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SF509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "cu1510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "jd1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "c1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP i1505&i1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SF603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "RI603",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD LR509&LR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM510&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "j1512",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "TA512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "fb1601",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SF512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "ni1601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPC l1601&v1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "jd1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD PM601&PM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "i1512",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "TF1509",
+			"VolumeMultiple" : "10000",
+			"PriceTick" : "0.005"
+		},
+		{ 
+			"Symbol" : "SPC j1509&jm1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD TA509&TA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SM602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP p1506&p1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "v1511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "j1511",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "au1508",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "sn1604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "MA512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "rb1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "IH1506",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "i1508",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "ni1604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "TA604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP m1505&m1508",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fu1601",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SF604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA508&MA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pp1604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ru1604",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "IH1505",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "MA604",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "hc1506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "zn1604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "IH1512",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "j1604",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "v1604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "IC1506",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "al1507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SM602&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "a1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC604",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD LR505&LR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ag1604",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC l1512&v1512",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SM510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SM604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "CF505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "y1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "l1508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "IC1512",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "TA603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "rb1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR601&SR605",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "IPS SF511&SM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "zn1512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "JR511",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD OI509&OI601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "a1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "hc1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "fu1507",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cu1512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC512&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "fb1512",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "wr1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM510&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD CF509&CF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "zn1603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "hc1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP l1505&l1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SR505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "y1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "p1604",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "y1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP l1509&l1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPC a1505&m1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fu1603",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "p1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "RI511",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR509&SR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "IPS SF512&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "IH1509",
+			"VolumeMultiple" : "300",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "jd1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SF601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP c1511&c1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG512&FG602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC a1601&m1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC507&TC510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SM509&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "p1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "fu1512",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cs1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RS511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD LR505&LR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC i1601&j1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "m1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG505&FG511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI511&RI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC512",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "WH511",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1512&m1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "jm1512",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "JR601",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "jd1604",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP j1509&j1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "TA601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "FG509",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC l1509&pp1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "rb1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPC c1507&cs1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1603",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "jm1511",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD JR511&JR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "LR509",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG511&FG512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1703",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "sn1510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "al1603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "ru1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "cu1603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD RM507&RM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SM506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "znefp",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "zn1508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SR511&SR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "CF603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "FG601",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "sn1603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "au1507",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "ag1603",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "al1510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "FG604",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SM511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP j1509&j1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "pp1601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "OI509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM510&SM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "p1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "y1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC fb1601&bb1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "cu1604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "jd1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pp1511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1507&cs1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP jm1505&jm1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "RM601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "j1601",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "cs1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SR607&SR609",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "m1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA601&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF508&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "RI601",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "FG603",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP v1505&v1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "MA507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "zn1506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "CF601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "v1601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP j1505&j1508",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "rb1510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pb1512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD OI511&OI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC fb1510&bb1510",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "TC507",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "p1506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "PM509",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF509&SF602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPC i1601&j1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "l1506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD LR507&LR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "y1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SF505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "c1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "j1509",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD TC510&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "al1511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP m1508&m1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA509&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SR607",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "rb1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "cu1511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "MA510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SR511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "jd1510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM510&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP b1505&b1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "j1510",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD RM505&RM601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ag1508",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ru1510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "zn1510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "hc1510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "PM603",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "m1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RI601&RI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ag1510",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SM603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SR603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC509",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "pb1510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP m1601&m1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "p1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "TC506",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD MA510&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fu1604",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "c1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC601&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "pp1508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RM509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pbefp",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "wr1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pb1604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "MA508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "jm1604",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "IPS SF603&SM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RI509&RI511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "i1510",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "ni1507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "jd1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SM508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "v1508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "LR507",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "jm1603",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "b1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "MA601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "v1509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "ag1511",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1609",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "al1604",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "jd1506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SM505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP jd1509&jd1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "zn1509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "OI511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "wr1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SR507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC y1505&p1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "pb1509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "b1601",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RS509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1505",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "T1512",
+			"VolumeMultiple" : "10000",
+			"PriceTick" : "0.005"
+		},
+		{ 
+			"Symbol" : "WH507",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC511",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "cu1509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD MA601&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD OI507&OI511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR511&SR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fu1510",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ag1509",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "JR509",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1505&m1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA509&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SF507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD LR507&LR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "i1601",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "RM505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "MA509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP a1509&a1609",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "zn1507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "MA506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fu1505",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fu1506",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "OI507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR603&SR605",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "b1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM511&SM602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "ni1508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "i1511",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD RM505&RM508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1508&m1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1507",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "WH505",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP c1507&c1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "JR507",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC510",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "pb1508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD WH509&WH511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "pp1510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA508&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SF510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "m1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP bb1509&bb1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SM507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "hc1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "wr1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "au1604",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TA602&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SM512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "pb1507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SR509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "FG508",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA511&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RS507&RS508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD LR601&LR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TC505",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SF508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "ME505",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "p1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "fb1505",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TC601&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC602&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "pp1506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG507&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RM507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cu1508",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SF506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "TC508",
+			"VolumeMultiple" : "200",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "pp1509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RM508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ru1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPC c1603&cs1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD RM511&RM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fb1508",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "TA507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SR505&SR601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF509&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "p1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA507&MA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "v1507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "cu1505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "v1512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "pb1505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD WH511&WH603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "hc1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "WH601",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "LR511",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "l1510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD OI507&OI509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "fu1508",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TA505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD JR505&JR507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "rb1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP cs1507&cs1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF507",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD JR505&JR509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "rb1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF511&SF512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "v1506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pb1602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "wr1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1512",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "al1509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "j1505",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPC a1601&m1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "rb1506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "TA506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "fb1604",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD SF601&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA511&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "ag1512",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "FG506",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1508&m1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SR605",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF507&SF508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SM601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "jm1508",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "MA602",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "LR505",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "c1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "RS507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "LR603",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "LR601",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "p1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "zn1511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "bu1606",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "fu1509",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF510&SF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD JR509&JR511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA509&MA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "CF509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "l1602",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TC506&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "y1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC602&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "pp1507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "PM505",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "a1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pp1512",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "FG507",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA507&TA510",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "hc1604",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pb1506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "b1509",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "cs1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fu1511",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "l1507",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "au1505",
+			"VolumeMultiple" : "1000",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SP y1509&y1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA511&MA512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP m1505&m1511",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "p1510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "wr1506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP v1505&v1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD FG506&FG511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA506&MA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "pb1603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "bu1603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD PM511&PM603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP j1505&j1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "IPS SF506&SM506",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "l1601",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "FG505",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SF510&SF604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "jm1601",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "alefp",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD SF512&SF601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "b1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD JR507&JR509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ru1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "ag1506",
+			"VolumeMultiple" : "15",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fb1506",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC506",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD SF505&SF511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "OI505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "l1603",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "fb1603",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "jm1505",
+			"VolumeMultiple" : "60",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD SM507&SM508",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "rb1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TC601&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "j1508",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "pp1505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA506&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "TA510",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "RI505",
+			"VolumeMultiple" : "20",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "PM507",
+			"VolumeMultiple" : "50",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ruefp",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD JR509&JR603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM508&SM511",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "i1602",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "MA603",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1512",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM511&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD TC510&TC604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "i1505",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPC i1505&j1505",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "ru1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "zn1505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "ni1603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "i1507",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPC fb1512&bb1512",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "RS508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bu1510",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD FG602&FG603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "l1511",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "al1505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SPD TC508&TC602",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "i1506",
+			"VolumeMultiple" : "100",
+			"PriceTick" : "0.5"
+		},
+		{ 
+			"Symbol" : "SPD SR507&SR607",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD FG512&FG604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fb1510",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "SPD TA505&TA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD RM505&RM509",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "bb1506",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "a1511",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM512&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SF506&SF512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD SM505&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SP m1505&m1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SP fb1505&fb1509",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "l1509",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "ru1506",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP m1511&m1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "l1505",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP y1505&y1601",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "SPD MA512&MA601",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "a1505",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPC c1603&cs1603",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "ru1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "5"
+		},
+		{ 
+			"Symbol" : "SP m1508&m1512",
+			"VolumeMultiple" : "0",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD SM506&SM604",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "bb1508",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		},
+		{ 
+			"Symbol" : "cu1506",
+			"VolumeMultiple" : "5",
+			"PriceTick" : "10"
+		},
+		{ 
+			"Symbol" : "SPD TC505&TC512",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "0.2"
+		},
+		{ 
+			"Symbol" : "SPD OI507&OI603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "2"
+		},
+		{ 
+			"Symbol" : "wr1508",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD WH601&WH603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "SPD MA512&MA603",
+			"VolumeMultiple" : "1",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "a1507",
+			"VolumeMultiple" : "10",
+			"PriceTick" : "1"
+		},
+		{ 
+			"Symbol" : "fb1507",
+			"VolumeMultiple" : "500",
+			"PriceTick" : "0.05"
+		}	
+	]
+}
