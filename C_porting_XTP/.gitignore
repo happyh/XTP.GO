@@ -6,3 +6,5 @@ bin/Debug/LCTS.pdb
 bin/Debug/LCTS.ilk
 lib/CCTPApi
 *.so
+include/CXTPApi
+lib/CXTPApi
