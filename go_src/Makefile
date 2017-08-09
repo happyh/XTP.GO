@@ -59,6 +59,7 @@ dep:
 	go get github.com/gorilla/websocket
 	go get github.com/nsf/termbox-go
 	go get github.com/garyburd/redigo/redis
+	go get github.com/yireyun/go-queue
 
 gen_wc:
 	@find ../C_porting_XTP/include/CXTPApi ../C_porting_XTP/src/Platform/CXTPApiImpl -name *.c* -or -name *.h* | xargs wc -l

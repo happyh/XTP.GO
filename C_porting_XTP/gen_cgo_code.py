@@ -464,7 +464,7 @@ def gen_message_h(md_info, trader_info, start_message):
     finally:
         h_output.close()
 
-output_go_package = 'queues'
+output_go_package = 'queue'
 
 output_queues_go_dir = '../go_src/' + output_go_package
 

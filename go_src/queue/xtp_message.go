@@ -1,6 +1,6 @@
-package queues
+package queue
 
-type EventType int32 
+type EventType int32
 
 const (
 	MD_ONDISCONNECTED EventType = 3000 + iota

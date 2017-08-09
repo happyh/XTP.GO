@@ -1,4 +1,4 @@
-package queues
+package queue
 
 import (
 	"time"
@@ -21,10 +21,9 @@ const (
 	ChanSize = 4096
 )
 
+/*
 var QueryQueue chan ChanMsg
-
 var QuoteQueue chan ChanMsg
-
 var TraderQueue chan ChanMsg
 
 func init() {
@@ -32,8 +31,20 @@ func init() {
 	QuoteQueue = make(chan ChanMsg, ChanSize)
 	TraderQueue = make(chan ChanMsg, ChanSize)
 }
+*/
 
-func Enqueue(queue *chan ChanMsg, spiPtr uint64, _type EventType, data unsafe.Pointer, err unsafe.Pointer, request_id int, isLast int) {
+var QueryQueue chan ChanMsg
+
+var QuoteQueue *LFQueue
+var TraderQueue *LFQueue
+
+func init() {
+	QueryQueue = make(chan ChanMsg, ChanSize)
+	QuoteQueue = NewQueue(ChanSize)
+	TraderQueue = NewQueue(ChanSize)
+}
+
+func Enqueue(queue *LFQueue, spiPtr uint64, _type EventType, data unsafe.Pointer, err unsafe.Pointer, request_id int, isLast int) {
 	var msg ChanMsg
 	msg.SpiPtr = spiPtr
 	msg.Type = _type
@@ -47,5 +58,6 @@ func Enqueue(queue *chan ChanMsg, spiPtr uint64, _type EventType, data unsafe.Po
 	}
 	msg.TinQ = time.Now()
 	msg.TinQStr = msg.TinQ.Format("20060102 15:04:05.000000")
-	(*queue) <- msg
+	//(*queue) <- msg
+	queue.Put(msg)
 }

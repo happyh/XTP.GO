@@ -10,7 +10,7 @@ import "C"
 
 import (
 	. "leochan007/xtp.go/go_src/defs"
-	. "leochan007/xtp.go/go_src/queues"
+	. "leochan007/xtp.go/go_src/queue"
 
 	"unsafe"
 )
@@ -43,7 +43,7 @@ func Go_quote_apiOnMarketData(spiPtr C.ulonglong, market_data *C.XTPMD) {
 		marketData.Ask_qty[i] = (int64)(market_data.ask_qty[i])
 	}
 
-	Enqueue(&QuoteQueue, getIntValOfPtr(spiPtr), MD_ONMARKETDATA, unsafe.Pointer(marketData), nil, -1, 1)
+	Enqueue(QuoteQueue, getIntValOfPtr(spiPtr), MD_ONMARKETDATA, unsafe.Pointer(marketData), nil, -1, 1)
 }
 
 //export Go_quote_apiOnSubOrderBook
