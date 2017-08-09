@@ -1,5 +1,0 @@
-/home/ubuntu/gopath/src/leochan007/xtp.go/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/gopath/src/leochan007/xtp.go/build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/gopath/src/leochan007/xtp.go/build/CXTPApiImpl/CMakeFiles/edit_cache.dir
-/home/ubuntu/gopath/src/leochan007/xtp.go/build/CXTPApiImpl/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/gopath/src/leochan007/xtp.go/build/CXTPApiImpl/CMakeFiles/CXTPApi.dir
