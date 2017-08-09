@@ -64,9 +64,10 @@ Extern_Ptr_Param = 'unsigned long long int spiPtr'
 
 md_concern_list = []
 trader_concern_list = []
-md_concern_list = [ 'Go_quote_apiOnSubMarketData', 'Go_quote_apiOnMarketData', ]
+md_concern_list = [ 'Go_quote_apiOnSubMarketData', 'Go_quote_apiOnMarketData', 'Go_quote_apiOnSubOrderBook', 'Go_quote_apiOnOrderBook' ]
 
-trader_concern_list = [ 'Go_trader_apiOnOrderEvent', 'Go_trader_apiOnTradeEvent' ]
+trader_concern_list = [ 'Go_trader_apiOnOrderEvent', 'Go_trader_apiOnTradeEvent', 'Go_trader_apiOnQueryOrder', 'Go_trader_apiOnQueryTrade',
+	'Go_trader_apiOnQueryPosition', 'Go_trader_apiOnQueryAsset' ]
 
 def isInlist(func_name) :
     if len(md_concern_list) == 0 and len(trader_concern_list) == 0:

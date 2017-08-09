@@ -9,12 +9,9 @@ package xtp_wrapper
 import "C"
 
 import (
-	"fmt"
-
 	. "leochan007/xtp.go/go_src/defs"
 	. "leochan007/xtp.go/go_src/queues"
 
-	//"os"
 	"unsafe"
 )
 
@@ -22,7 +19,6 @@ import (
 
 //export Go_quote_apiOnSubMarketData
 func Go_quote_apiOnSubMarketData(spiPtr C.ulonglong, ticker *C.XTPST, error_info *C.XTPRI, is_last C.bool) {
-	fmt.Println("Go_quote_apiOnSubMarketData")
 	ctpLogger.Infof("Go_quote_apiOnSubMarketData")
 }
 
@@ -47,6 +43,15 @@ func Go_quote_apiOnMarketData(spiPtr C.ulonglong, market_data *C.XTPMD) {
 		marketData.Ask_qty[i] = (int64)(market_data.ask_qty[i])
 	}
 
-	//ctpLogger.Infof("Go_quote_apiOnMarketData: %v", marketData)
-	Enqueue(&QuoteQueue, getIntValOfPtr(spiPtr), MD_ONMARKETDATA, unsafe.Pointer(marketData), nil)
+	Enqueue(&QuoteQueue, getIntValOfPtr(spiPtr), MD_ONMARKETDATA, unsafe.Pointer(marketData), nil, -1, 1)
+}
+
+//export Go_quote_apiOnSubOrderBook
+func Go_quote_apiOnSubOrderBook(spiPtr C.ulonglong, ticker *C.XTPST, error_info *C.XTPRI, is_last C.bool) {
+	ctpLogger.Infof("Go_quote_apiOnSubOrderBook")
+}
+
+//export Go_quote_apiOnOrderBook
+func Go_quote_apiOnOrderBook(spiPtr C.ulonglong, order_book *C.XTPOB) {
+	ctpLogger.Infof("Go_quote_apiOnOrderBook. %v", order_book)
 }
