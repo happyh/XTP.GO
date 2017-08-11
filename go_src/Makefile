@@ -100,6 +100,10 @@ build:
 run:
 	@echo $(suffix)
 	CGO_LDFLAGS=$(CGO_LDFLAGS) LD_LIBRARY_PATH=$(LD_LIBRARY_PATH) go run $(CGOFILES) $(suffix)
+	
+web:
+	cd lctp && bee run
+	cd ..
 
 clean:
 	@rm -rf $(TARG) bin
