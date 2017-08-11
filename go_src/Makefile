@@ -59,6 +59,8 @@ dep:
 	go get github.com/gorilla/websocket
 	go get github.com/nsf/termbox-go
 	go get github.com/garyburd/redigo/redis
+	go get -u github.com/astaxie/beego
+	go get -u github.com/beego/bee
 	go get github.com/yireyun/go-queue
 
 gen_wc:
