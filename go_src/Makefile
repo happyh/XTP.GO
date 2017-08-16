@@ -18,7 +18,7 @@ endif
 ifdef I
 suffix=$(I)
 else
-suffix=-d=d -f=strategy_d.json
+suffix=-d=1 -f=strategy_d.json -u=15030798 -p=UgDUqNeK
 endif
 
 TF_TYPE=cpu
@@ -56,12 +56,15 @@ dep:
 	go get github.com/op/go-logging
 	go get github.com/jessevdk/go-flags
 	go get github.com/qiniu/py
-	go get github.com/gorilla/websocket
 	go get github.com/nsf/termbox-go
 	go get github.com/garyburd/redigo/redis
-	go get -u github.com/astaxie/beego
-	go get -u github.com/beego/bee
+	#go get -u github.com/astaxie/beego
+	#go get -u github.com/beego/bee
 	go get github.com/yireyun/go-queue
+	go get github.com/go-martini/martini
+	go get github.com/gorilla/websocket
+	go get -u github.com/mkideal/cli
+	go get -u github.com/mkideal/goplus
 
 gen_wc:
 	@find ../C_porting_XTP/include/CXTPApi ../C_porting_XTP/src/Platform/CXTPApiImpl -name *.c* -or -name *.h* | xargs wc -l
@@ -102,7 +105,7 @@ run:
 	CGO_LDFLAGS=$(CGO_LDFLAGS) LD_LIBRARY_PATH=$(LD_LIBRARY_PATH) go run $(CGOFILES) $(suffix)
 	
 web:
-	cd lctp && bee run
+	cd lctp && go run *.go
 	cd ..
 
 clean:
