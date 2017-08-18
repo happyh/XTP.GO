@@ -42,6 +42,7 @@ func Go_quote_apiOnMarketData(spiPtr C.ulonglong, market_data *C.XTPMD) {
 		marketData.Bid_qty[i] = (int64)(market_data.bid_qty[i])
 		marketData.Ask_qty[i] = (int64)(market_data.ask_qty[i])
 	}
+	ctpLogger.Infof("Go_quote_apiOnMarketData:%v", marketData)
 
 	Enqueue(QuoteQueue, getIntValOfPtr(spiPtr), MD_ONMARKETDATA, unsafe.Pointer(marketData), nil, -1, 1)
 }

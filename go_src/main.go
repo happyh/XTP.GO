@@ -13,10 +13,14 @@ import (
 
 type argT struct {
 	cli.Helper
-	Username string `cli:"u,username" usage:"account" prompt:"type account"`
-	Password string `pw:"p,password" usage:"password of account" prompt:"type the password"`
-	Debug    bool   `pw:"d,debug" usage:"debug flag" prompt:"if it is in debug mode"`
-	File     string `pw:"f,file" usage:"file for strategy" prompt:"type json file name"`
+	QuoteHost  string `cli:"q,quotehost" usage:"quotehost" prompt:"type quotehost"`
+	QuotePort  int    `cli:"p,quoteport" usage:"quoteport" prompt:"type quoteport"`
+	TraderHost string `cli:"r,traderhost" usage:"traderhost" prompt:"type traderhost"`
+	TraderPort int    `cli:"o,traderport" usage:"traderport" prompt:"type traderport"`
+	Username   string `cli:"u,username" usage:"account" prompt:"type account"`
+	Password   string `pw:"w,password" usage:"password of account" prompt:"type the password"`
+	Debug      bool   `cli:"d,debug" usage:"debug flag" prompt:"if it is in debug mode"`
+	File       string `cli:"f,file" usage:"file for strategy" prompt:"type json file name"`
 }
 
 type StockMap map[string]string
@@ -36,7 +40,7 @@ func main() {
 		trader_api := GoCreateLCTraderApi(1, folder)
 		trader_spi := GoCreateLCTraderSpi()
 		Go_trader_apiRegisterSpi(trader_api, trader_spi)
-		loginResult := Go_trader_apiLogin(trader_api, "120.27.164.69", 6001, argv.Username, argv.Password)
+		loginResult := Go_trader_apiLogin(trader_api, argv.TraderHost, argv.TraderPort, argv.Username, argv.Password)
 
 		if loginResult == 0 {
 			fmt.Println("trader login OK.")
@@ -47,7 +51,7 @@ func main() {
 		quote_api := GoCreateLCQuoteApi(1, folder)
 		quote_spi := GoCreateLCQuoteSpi()
 		Go_quote_apiRegisterSpi(quote_api, quote_spi)
-		loginResult = Go_quote_apiLogin(quote_api, "120.27.164.138", 6002, argv.Username, argv.Password)
+		loginResult = Go_quote_apiLogin(quote_api, argv.QuoteHost, argv.QuotePort, argv.Username, argv.Password)
 
 		if loginResult == 0 {
 			fmt.Println("quote login OK.")

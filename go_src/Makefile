@@ -18,7 +18,7 @@ endif
 ifdef I
 suffix=$(I)
 else
-suffix=-d=1 -f=strategy_d.json -u=15030798 -p=UgDUqNeK
+suffix=-d=1 -f=strategy_d.json -u=15030798 -w=UgDUqNeK -r=120.27.164.69 -o=6001 -q=120.27.164.138 -p=6002
 endif
 
 TF_TYPE=cpu
